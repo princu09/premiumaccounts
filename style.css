@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+}
+#breadcrumb{
+    background-color: white;
+    border: solid black 1px;
+    margin: 50px 0;
+}
+#mainnav{
+    background-color: black;
+    margin-top: -32px;
+    margin-bottom: 50px;
+}
+#joinchannel{
+    background-color:;
+}
+#codetoolbar{
+    background-color: black;
+    border-radius: 10px;
+
+}
+
+#codetoolbar pre{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
