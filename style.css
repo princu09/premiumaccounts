@@ -32,6 +32,10 @@ body{
     text-align: center;
     margin: 20px 0;
 }
+
+#imgcenter img{
+    border-radius: 5px;
+}
 #footer {
     position: fixed;
     left: 0;
