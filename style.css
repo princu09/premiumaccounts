@@ -28,3 +28,26 @@ body{
     font-size: 18px;
     font-weight: bold;
 }
+#imgcenter{
+    text-align: center;
+    margin: 20px 0;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+ }
+ #textfooter{
+     font-size: 18px;
+     font-weight: bold;
+     padding: 0 50px;
+     line-height: inherit;
+ }
+#textfooter span{
+    color:#01ffbd;
+}
+ 
