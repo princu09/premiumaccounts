@@ -4,6 +4,16 @@
 }
 body{
 }
+
+@media only screen and (max-width: 768px) {
+    #codetoolbar pre {
+        font-size:9px;
+    }
+    #imgcenter img {
+        width: 250px;
+    }
+}
+    
 #breadcrumb{
     background-color: white;
     border: solid black 1px;
