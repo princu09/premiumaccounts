@@ -1,7 +1,7 @@
 JavaScript By NorthFox Developers
 =================================
 
-# Alert #
+## Alert
 
 ```alert
      alert("Hello User !! Welcome to NorthFoxGroup")
